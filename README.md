@@ -1,8 +1,6 @@
 # Hungry Animal Tutorial
 Hungry Animal Game with Score!
 
-You can use **Markdown** syntax to format this file to do things like **bold** or *italicize* text.
-[Markdown basics](https://www.markdownguide.org/getting-started/)
 
 This particular repository is the starting template for the Hungry Elephant tutorial.
 
